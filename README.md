@@ -5,7 +5,7 @@ August 2022 | Elif Sena Özefe
 Data
 --
 I couldn't uploaded data because of its size. You can see randomly chosen rows' image below.
-![alt text](https://github.com/elifsenaozefe/vehicle_pricing/blob/master/data_random.png?raw=true)
+![alt text](https://github.com/elifsenaozefe/vehicle_pricing/blob/main/images/data_random.png?raw=true)
 
 Summary of Insight
 --
